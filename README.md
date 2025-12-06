@@ -63,9 +63,3 @@ The input bindings are set in `lib/game/main.js`:
 * `lib/game/entities/levelexit.js`: An invisible trigger used to load the next map (`dorm2`).
 * `lib/game/levels/dorm1.js`: Level data for the first map.
 
----
-
-## 📝 Credits
-
-* **Game Engine:** ImpactJS
-* **Developer:** Arrow-sudo531
