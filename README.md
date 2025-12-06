@@ -2,6 +2,9 @@
 
 A classic side-scrolling platformer built using the **ImpactJS Game Engine** for an academic project. This game is based on the tutorial series from a professional game development guide.
 
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/0ad7f68b-a586-4b83-aa8e-9e28a6457106" />
+
+
 ## 🕹️ Game Overview
 
 **Resident Raver** puts the player in control of an unnamed hero trying to escape a college dorm overrun by raver zombies. The game requires the hero to navigate platform-based obstacles while utilizing various weapons to survive.
